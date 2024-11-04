@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Doniyor 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Studying Python development in SkyPro</h3>
+<h3 align="center">Learning Python in SkyPro IT School</h3>
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
