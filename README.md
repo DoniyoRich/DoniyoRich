@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Doniyor 
+<h1 align="left">Hi there, I'm Doniyor 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Learning Python in SkyPro IT School</h3>
+<h3 align="left">Learning Python in SkyPro IT School</h3>
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 My LeetCode achievements will be shown here soon
-[![LeetCode](https://leetcode-stats-six.vercel.app/api?username=DoniyoRich=dark)](https://github.com/DoniyoRich/leetcode-stats)
+[![LeetCode](https://leetcode-stats-six.vercel.app/api?username=DoniyoRich&theme=dark)](https://github.com/DoniyoRich/leetcode-stats)
 
 My CodeWars achievements
 [![codewars](https://www.codewars.com/users/DoniyoRich/badges/small)](https://www.codewars.com/users/DoniyoRich) 
