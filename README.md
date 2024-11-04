@@ -2,13 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Studying Python development in SkyPro</h3>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 My LeetCode achievements will be shown here soon
-[![LeetCode Stats](#)
+![LeetCode Stats](#)
 
 My CodeWars achievements will be shown here soon
-[![Codewars Stats](#)
+![Codewars Stats](#)
 
 Some fun :)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
