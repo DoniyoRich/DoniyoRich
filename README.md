@@ -2,6 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Studying Python development in SkyPro</h3>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **DoniyoRich/DoniyoRich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
