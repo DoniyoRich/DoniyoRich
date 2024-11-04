@@ -8,7 +8,7 @@ My LeetCode achievements will be shown here soon
 ![LeetCode Stats](#)
 
 My CodeWars achievements
-![Codewars Stats]([![codewars](https://www.codewars.com/users/username/badges/small)]([https://www.codewars.com/users/username](https://www.codewars.com/users/DoniyoRich))
+[![codewars](https://www.codewars.com/users/DoniyoRich/badges/small)](https://www.codewars.com/users/DoniyoRich) 
 
 Some fun :)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
