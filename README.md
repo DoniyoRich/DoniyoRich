@@ -4,8 +4,7 @@
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-My LeetCode achievements will be shown here soon
-[![Doniyor's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DoniyoRich&theme=dark)](https://github.com/DoniyoRich/leetcode-stats)
+
 
 My CodeWars achievements
 [![codewars](https://www.codewars.com/users/DoniyoRich/badges/small)](https://www.codewars.com/users/DoniyoRich) 
