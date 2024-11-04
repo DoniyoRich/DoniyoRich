@@ -10,6 +10,8 @@ My LeetCode achievements will be shown here soon
 My CodeWars achievements
 [![codewars](https://www.codewars.com/users/DoniyoRich/badges/small)](https://www.codewars.com/users/DoniyoRich) 
 
+![](https://komarev.com/ghpvc/?username=DoniyoRich)
+
 Some fun :)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
