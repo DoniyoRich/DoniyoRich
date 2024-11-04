@@ -9,7 +9,6 @@
 My CodeWars achievements
 [![codewars](https://www.codewars.com/users/DoniyoRich/badges/small)](https://www.codewars.com/users/DoniyoRich) 
 
-[//]![](https://readme-jokes.vercel.app/api)
 
 ![](https://komarev.com/ghpvc/?username=DoniyoRich)
 <!--
