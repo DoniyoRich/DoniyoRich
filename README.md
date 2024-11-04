@@ -4,6 +4,13 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+My LeetCode achievements
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+My CodeWars achievements
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)
+
+Some fun :)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
