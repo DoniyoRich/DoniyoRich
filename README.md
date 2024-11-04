@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Doniyor 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Studying Python development</h3>
+
 
 <!--
 **DoniyoRich/DoniyoRich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
