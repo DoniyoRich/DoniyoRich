@@ -10,7 +10,7 @@ CodeWars achievements
 [![codewars](https://www.codewars.com/users/DoniyoRich/badges/small)](https://www.codewars.com/users/DoniyoRich) 
 
 LeetCode
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=transparent)
+![Leetcode Stats](https://leetcard.doniyoRich/DoniyoRich?theme=transparent)
 
 ![](https://komarev.com/ghpvc/?username=DoniyoRich)
 <!--
