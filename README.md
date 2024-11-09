@@ -9,9 +9,6 @@
 My CodeWars achievements
 [![codewars](https://www.codewars.com/users/DoniyoRich/badges/small)](https://www.codewars.com/users/DoniyoRich) 
 
-My LeetCode achievements
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DoniyoRich&theme=dark)](https://github.com/DoniyoRich/leetcode-stats)
-
 ![](https://komarev.com/ghpvc/?username=DoniyoRich)
 <!--
 **DoniyoRich/DoniyoRich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
